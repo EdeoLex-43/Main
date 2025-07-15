@@ -19,7 +19,7 @@
     ["在超市生活一周"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E5%9C%A8%E8%B6%85%E5%B8%82%E7%94%9F%E6%B4%BB%E4%B8%80%E5%91%A8.lua",
     ["河北唐县"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E6%B2%B3%E5%8C%97%E5%94%90%E5%8E%BF.lua",
     ["僵尸起义"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E5%83%B5%E5%B0%B8%E8%B5%B7%E4%B9%89.lua",
-  
+    ["彩虹朋友"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E5%BD%A9%E8%99%B9%E6%9C%8B%E5%8F%8B.lua",
 } -- ["Server Name"] = "Server Url",
 local Other = {
     ["网易云音乐"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E7%BD%91%E6%98%93%E4%BA%91.lua",

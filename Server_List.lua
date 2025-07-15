@@ -13,7 +13,7 @@
     ["最强战场"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E6%9C%80%E5%BC%BA%E6%88%98%E5%9C%BA.lua",
     ["压力"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E5%8E%8B%E5%8A%9B.lua",
     ["极速传奇"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E6%9E%81%E9%80%9F%E4%BC%A0%E5%A5%87.lua",
-
+    ["Dig it"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/Dig%20it.lua",
  
  
 } -- ["Server Name"] = "Server Url",

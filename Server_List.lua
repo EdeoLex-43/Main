@@ -15,6 +15,7 @@
     ["极速传奇"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E6%9E%81%E9%80%9F%E4%BC%A0%E5%A5%87.lua",
     ["Dig it"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/Dig%20it.lua",
     ["Build an Island"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/Build%20an%20Island.lua",
+    ["Rope battle"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/Rope%20battle.lua",
  
 } -- ["Server Name"] = "Server Url",
 local Other = {

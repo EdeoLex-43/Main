@@ -17,7 +17,8 @@
     ["Build an Island"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/Build%20an%20Island.lua",
     ["Rope battle"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/Rope%20battle.lua",
     ["在超市生活一周"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E5%9C%A8%E8%B6%85%E5%B8%82%E7%94%9F%E6%B4%BB%E4%B8%80%E5%91%A8.lua",
- 
+    ["河北唐县"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E6%B2%B3%E5%8C%97%E5%94%90%E5%8E%BF.lua",
+  
 } -- ["Server Name"] = "Server Url",
 local Other = {
     ["网易云音乐"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E7%BD%91%E6%98%93%E4%BA%91.lua",

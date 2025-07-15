@@ -11,6 +11,7 @@
     ["种植花园"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E7%A7%8D%E6%A4%8D%E8%8A%B1%E5%9B%AD.lua", 
     ["黑暗欺骗"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E9%BB%91%E6%9A%97%E6%AC%BA%E9%AA%97.lua",
     ["最强战场"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E6%9C%80%E5%BC%BA%E6%88%98%E5%9C%BA.lua",
+    ["压力"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E5%8E%8B%E5%8A%9B.lua",
 } -- ["Server Name"] = "Server Url",
 local Other = {
     ["网易云音乐"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E7%BD%91%E6%98%93%E4%BA%91.lua",

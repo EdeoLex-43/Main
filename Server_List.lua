@@ -12,6 +12,10 @@
     ["黑暗欺骗"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E9%BB%91%E6%9A%97%E6%AC%BA%E9%AA%97.lua",
     ["最强战场"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E6%9C%80%E5%BC%BA%E6%88%98%E5%9C%BA.lua",
     ["压力"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E5%8E%8B%E5%8A%9B.lua",
+    ["极速传奇"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E6%9E%81%E9%80%9F%E4%BC%A0%E5%A5%87.lua",
+
+ 
+ 
 } -- ["Server Name"] = "Server Url",
 local Other = {
     ["网易云音乐"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E7%BD%91%E6%98%93%E4%BA%91.lua",

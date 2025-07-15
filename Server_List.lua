@@ -16,6 +16,7 @@
     ["Dig it"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/Dig%20it.lua",
     ["Build an Island"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/Build%20an%20Island.lua",
     ["Rope battle"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/Rope%20battle.lua",
+    ["在超市生活一周"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E5%9C%A8%E8%B6%85%E5%B8%82%E7%94%9F%E6%B4%BB%E4%B8%80%E5%91%A8.lua",
  
 } -- ["Server Name"] = "Server Url",
 local Other = {

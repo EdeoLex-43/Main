@@ -24,6 +24,8 @@
     ["驾驶帝国"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E9%A9%BE%E9%A9%B6%E5%B8%9D%E5%9B%BD.lua",
     ["监狱人生"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E7%9B%91%E7%8B%B1%E4%BA%BA%E7%94%9F.lua",
     ["逃离建筑"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E9%80%83%E7%A6%BB%E5%BB%BA%E7%AD%91.lua",
+    ["墨水游戏"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E5%A2%A8%E6%B0%B4%E6%B8%B8%E6%88%8F.lua",
+
 } -- ["Server Name"] = "Server Url",
 local Other = {
     ["网易云音乐"] = "https://raw.githubusercontent.com/EdeoLex-43/Main/refs/heads/Script/%E7%BD%91%E6%98%93%E4%BA%91.lua",
